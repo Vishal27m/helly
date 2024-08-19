@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './App.css'; // Import the updated CSS file
 
 function App() {
+ 
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="role-selection-container">
+      <div className="header">
+        <h2 className="app-name">COMMUNITY HUB</h2>
+      </div>
+      <div className="role-selection-box">
+        <h1>Select Your Role</h1>
+        <div>
+          <button>People</button>
+          <button>Admin</button>
+          <button>Main Admin</button>
+        </div>
+      </div>
     </div>
   );
 }

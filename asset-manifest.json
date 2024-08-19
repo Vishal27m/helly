@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//Vishal27m.github.io/helly/static/css/main.511d3dff.css",
+    "main.js": "/http//Vishal27m.github.io/helly/static/js/main.73c886d0.js",
+    "static/js/453.c35d155c.chunk.js": "/http//Vishal27m.github.io/helly/static/js/453.c35d155c.chunk.js",
+    "index.html": "/http//Vishal27m.github.io/helly/index.html",
+    "main.511d3dff.css.map": "/http//Vishal27m.github.io/helly/static/css/main.511d3dff.css.map",
+    "main.73c886d0.js.map": "/http//Vishal27m.github.io/helly/static/js/main.73c886d0.js.map",
+    "453.c35d155c.chunk.js.map": "/http//Vishal27m.github.io/helly/static/js/453.c35d155c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.511d3dff.css",
+    "static/js/main.73c886d0.js"
+  ]
+}
